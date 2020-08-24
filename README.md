@@ -13,5 +13,5 @@ They fight in an arena.
 The program makes 2 monsters (DIKUmons) and make them fight. Some of the parameters is randomly decided. 
 
 ## Instructions for linux
-1 Open a terminal and cd to the directory
-2 type the command "node main.js"
+1. Open a terminal and cd to the directory.
+2. type the command "node main.js".
